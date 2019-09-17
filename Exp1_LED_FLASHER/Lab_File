@@ -1,1 +1,12 @@
+THEORY
+
+Concept Used:
+For the task of making a LED FLASHER we have used various concepts regarding LEDS , Adrino Chips and Programming.
+We used the concept regarding the N and p Junstion of a LED. The P terminal of an LED must be connected to the higher potential 
+and the N terminal of the LED must be connected to the lower potential i.e grounding in this case.
+We used the concept of how a breadboard is designed and the slots individually are internally connected.
+We used the concept of how the wires are connected in a breadboard and concept regarding different Analog and Digital ports.
+We used the concept of using while loops in the program while setting up the adrino.
+
+Learning and Observations:
 
